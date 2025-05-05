@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ng-app="myApp">
+<html ng-app="my App">
   <body ng-controller="myCtrl">
     <p>Original: {{name}}</p>
     <p>Uppercase: {{name | uppercase}}</p>

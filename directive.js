@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ng-app="myApp">
+<html ng-app="my App">
   <body>
     <hello-directive></hello-directive>
     
